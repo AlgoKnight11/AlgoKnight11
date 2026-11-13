@@ -1,16 +1,102 @@
-## Hi there 👋
+# 👾 Hey, I'm Bhavya!
 
-<!--
-**AlgoKnight11/AlgoKnight11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Curious by nature. Relentless by design. Building beyond the obvious.`
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;AI+Enthusiast;Exploring+Ideas+Through+Code;Building+Things+That+Actually+Work" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlgoKnight11&label=PROFILE+VISITORS&color=00f7ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AlgoKnight11?label=Followers&style=flat-square&color=00f7ff" alt="GitHub followers" />
+</p>
+
+---
+
+## `$ whoami`
+
+I'm Bhavya, a Software Developer from Noida, India.
+
+I enjoy taking ideas apart, understanding how things work, and turning them into software that solves actual problems.
+
+I'm particularly interested in the intersection of software engineering and artificial intelligence. From experimenting with new technologies to building and deploying real-world applications, I'm always looking for something new to figure out.
+
+- 🔭 **Currently:** Building and deploying real-world projects.
+- 🧠 **Exploring:** AI/ML, software architecture and modern development tools.
+- ⚡ **Mindset:** Learn deeply. Build fearlessly. Improve constantly.
+- 🎯 **Goal:** Become a Software Engineer at a top tech company.
+- 🌍 **Interests:** Open Source, Problem Solving, AI and Tech Exploration.
+
+---
+
+## `$ tech_stack --list`
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,dart" />
+</p>
+
+### Frameworks & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,fastapi,flask,flutter,androidstudio" />
+</p>
+
+### AI / Machine Learning & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,linux" />
+</p>
+
+---
+
+## `$ github --stats`
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlgoKnight11&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=00f7ff&icon_color=00f7ff" alt="Bhavya's GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=AlgoKnight11&theme=transparent&hide_border=true&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoKnight11&layout=compact&theme=transparent&hide_border=true&title_color=00f7ff" alt="Most Used Languages" />
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlgoKnight11&bg_color=00000000&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+## `$ connect --with-bhavya`
+
+I'm always open to connecting with developers, exchanging ideas, exploring interesting technologies and collaborating on meaningful projects.
+
+<p align="center">
+  <a href="https://linkedin.com/in/bhavya-with-code">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ig_flash.11">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://thisisbhavya.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-00f7ff?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="mailto:bhavyapandey22995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
+
+<p align="center">
+  <b>⚡ Think. Code. Break. Fix. Repeat.</b>
+</p>
