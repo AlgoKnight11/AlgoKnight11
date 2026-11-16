@@ -15,17 +15,13 @@
 
 ## `$ whoami`
 
-I'm Bhavya, a Software Developer from Noida, India.
+Bhavya | CSE Grad (to be) 💻
 
-I enjoy taking ideas apart, understanding how things work, and turning them into software that solves actual problems.
+AI enthusiast, tech explorer, and professional AI agent supervisor (budget constraints apply ofc).
 
-I'm particularly interested in the intersection of software engineering and artificial intelligence. From experimenting with new technologies to building and deploying real-world applications, I'm always looking for something new to figure out.
+Into tech, random experiments, breaking things, fixing them, and researching whatever new tech catches my attention.
 
-- 🔭 **Currently:** Building and deploying real-world projects.
-- 🧠 **Exploring:** AI/ML, software architecture and modern development tools.
-- ⚡ **Mindset:** Learn deeply. Build fearlessly. Improve constantly.
-- 🎯 **Goal:** Become a Software Engineer at a top tech company.
-- 🌍 **Interests:** Open Source, Problem Solving, AI and Tech Exploration.
+Usually found exploring new tech, experimenting with AI, or wondering why something worked yesterday but doesn't today. 🥀
 
 ---
 
